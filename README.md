@@ -30,7 +30,7 @@ You should be familiar with the topics here before reading other sections.
 
 ## How to ...?
 
-* Control the grid visibility
+* [Control the grid visibility](src/visible_grid.md)
 
 * Require Reeborg to follow a fixed path
 

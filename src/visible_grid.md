@@ -2,7 +2,7 @@
 
 Reeborg's world is defined on a square grid which is normally visible.
 
-(add picture)
+!(grid world)[../images/grid.png]
 
 When a background image is used, or when background tiles are added,
 they can hide the grid.
