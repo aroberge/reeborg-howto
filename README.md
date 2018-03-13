@@ -28,6 +28,10 @@ You should be familiar with the topics here before reading other sections.
     - Language agnostic
     - Potentially adding randomness
 
+## Classroom tips
+
+* [Keeping track of progress](src/user_progress.md)
+
 ## How to ...?
 
 * [Control the grid visibility](src/visible_grid.md)
