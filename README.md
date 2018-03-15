@@ -20,7 +20,7 @@ You should be familiar with the topics here before reading other sections.
 
 * The various editors
 
-* The advanced API and its naming convention
+* [The advanced API](https://aroberge.github.io/reeborg-api/RUR.html) and its [naming convention](src/naming_convention.md)
 
 * Opinion: what makes a good world
 
@@ -71,4 +71,4 @@ You should be familiar with the topics here before reading other sections.
 
 * [Checklist for a programming environment](src/checklist.md)
 
-* Real-time collaboration
+* [Real-time collaboration using Mozilla's TogetherJS](src/togetherjs.md)
