@@ -18,7 +18,7 @@ You should be familiar with the topics here before reading other sections.
 
 * Two ways to create worlds _aka_ programming tasks
 
-* The various editors
+* [The various editors](src/editors.md)
 
 * [The advanced API](https://aroberge.github.io/reeborg-api/RUR.html) and its [naming convention](src/naming_convention.md)
 
