@@ -13,7 +13,7 @@ You should be familiar with the topics here before reading other sections.
 
 * About Reeborg's World
 
-* Two ways to create worlds aka programming tasks
+* Two ways to create worlds _aka_ programming tasks
 
 * The various editors
 
@@ -36,19 +36,19 @@ You should be familiar with the topics here before reading other sections.
 
 * [Control the grid visibility](src/visible_grid.md)
 
-* Require Reeborg to follow a fixed path
+* ... require Reeborg to follow a fixed path
 
-* Add new objects, with different properties
+* ... add new objects, with different properties
 
-* Add new robot images
+* ... add new robot images
 
-* Use randomness
+* .. use randomness
 
     - Built-in using the graphical world editor
     - Using Python's random module
     - Using `RUR.randint()`
 
-* Create language-agnostic worlds
+* ... create language-agnostic worlds
 
     - Usable with either Javascript or Python
     - Usable with all human languages
@@ -64,7 +64,7 @@ You should be familiar with the topics here before reading other sections.
     - Why repeat?
     - Task driven learning
 
-* Checklist for a programming environment
+* [Checklist for a programming environment](src/checklist.md)
 
 * Real-time collaboration
 

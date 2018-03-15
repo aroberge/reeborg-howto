@@ -4,7 +4,7 @@ Reeborg's world is defined on a square grid which is normally visible.
 
 ![grid world](/images/grid.png)
 
-When a background image is used,
+However, when a background image is used,
 
 ![reaching for the stars](/images/stars.png)
 
