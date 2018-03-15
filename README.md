@@ -7,6 +7,9 @@ be used as an index.
 If something is not clear, or you cannot find what you are looking for,
 either contact me by email or file an issue.
 
+* testing emojis :key: :memo: :information_source: :no_entry_sign: :no_entry: :x: :heavy_check_mark: :heavy_exclamation_mark: :white_check_mark:
+:large_blue_circle: :red_circle: :large_orange_diamond: :negative_squared_cross_mark: :recycle: :warning: :construction: :trophy: :star: :smiley:
+
 ## Essentials
 
 You should be familiar with the topics here before reading other sections.
@@ -42,7 +45,7 @@ You should be familiar with the topics here before reading other sections.
 
 * ... add new robot images
 
-* .. use randomness
+* ... use randomness
 
     - Built-in using the graphical world editor
     - Using Python's random module
@@ -64,8 +67,8 @@ You should be familiar with the topics here before reading other sections.
     - Why repeat?
     - Task driven learning
 
+* [Support for different languages](src/international.md)
+
 * [Checklist for a programming environment](src/checklist.md)
 
 * Real-time collaboration
-
-* Support for non-English and non-French students

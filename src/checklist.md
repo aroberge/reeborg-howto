@@ -1,6 +1,6 @@
 # Checklist for a good programming environment
 
-In their 1997 paper, [Mini-languages: A Way to Learn Programming Principles](http://www.contrib.andrew.cmu.edu/~plb/papers/minilang.html),[^3] Brusilovsky _et al._ provide an overview of the mini-language approach to teach programming and mention many requirements that they consider important for a successful application of a mini-language. Here is a list of these requirements together with an explanation as to how Reeborg's World attempts to meet each requirement.
+In their 1997 paper, [Mini-languages: A Way to Learn Programming Principles](http://www.contrib.andrew.cmu.edu/~plb/papers/minilang.html), Brusilovsky _et al._ provide an overview of the mini-language approach to teach programming and mention many requirements that they consider important for a successful application of a mini-language. Here is a list of these requirements together with an explanation as to how Reeborg's World attempts to meet each requirement.
 
 * _The mini-language should be **simple** in both its syntax and semantics._
 
@@ -38,9 +38,6 @@ In their 1997 paper, [Mini-languages: A Way to Learn Programming Principles](htt
 
 * _A good mini-language should be complemented with a good set of attractive and meaningful problems for students to solve._
 
-  * I completely agree. Reeborg's World include a small set of such programming tasks \(worlds\) ... and I am counting on you to increase the number of such tasks available! :-\)
+  * I completely agree. Reeborg's World include a small set of such programming tasks \(worlds\) ... and I am counting on you to increase the number of such tasks available! :smiley:
 
 I do have one disagreement with the traditional mini-language approach: I believe that students can be more motivated to learn programming if they are using a "real" programming language rather than an artificial and limited one made up only to teach basic programming concepts.
-
-[^3]: Brusilovsky, P., Calabrese, E., Hvorecky, J., Kouchnirenko, A., and Miller, P. \(1997\) _Mini-languages: A Way to Learn Programming Principles. Education and Information Technologies_ 2 \(1\), pp. 65-83.
-
