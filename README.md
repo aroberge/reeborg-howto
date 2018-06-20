@@ -2,7 +2,8 @@
 Tips and tricks for creating worlds (aka programming tasks) for Reeborg's World
 
 There is very little material right now in this repository. This file will
-be used as an index.
+be used as an index.  I first need to migrate (and adapt) the material
+from another repository: [https://github.com/aroberge/reeborg-world-creation](https://github.com/aroberge/reeborg-world-creation)
 
 If something is not clear, or you cannot find what you are looking for,
 either contact me by email or file an issue.
